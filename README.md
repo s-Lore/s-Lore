@@ -31,15 +31,34 @@
   <br>
   
   <p aling="left">MCMXCIX<p/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img 
+    align="left"
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=s-Lore&show_icons=true&bg_color=0F0E0E&title_color=433D8B&border_color=433D8B&text_color=B6B09F&icon_color=6A669D&locale=pt-br"
+  />
+
+<img  
+    align="left"
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-Lore&layout=compact&bg_color=0F0E0E&title_color=433D8B&border_color=433D8B&text_color=B6B09F"
+  />
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s-Lore/s-Lore/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s-Lore/s-Lore/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s-Lore/s-Lore/output/github-contribution-grid-snake.svg">
 </picture>
-
-<style>
-  p{
-    font-color="red":
-  }
-<style/>
