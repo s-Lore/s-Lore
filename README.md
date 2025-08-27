@@ -29,7 +29,6 @@
   style="padding-right: 10px;"
   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <br>
-  <br>
   
   <p aling="left">𝙼𝙲𝙼𝚇𝙲𝙸𝚇<p/>
   
